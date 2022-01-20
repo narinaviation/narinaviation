@@ -5,7 +5,8 @@
 ## 👋 My name is Narin Bannasan, glad to see you here!
   
 ### :briefcase: My occupation
-- :computer: **Software Engineer** at Anunda Technology Co., Ltd.
+- 💻 **Graduate Software Developer** at ThoughtWorks (2022-Present)
+- ⚡ **Embedded Systems Engineer** at Anunda Technology (2020-2022)
 
 ### :mortar_board: My degree
 - :gear: **Bachelor of Engineering** (Telecommunications Engineering) from KMITL.
